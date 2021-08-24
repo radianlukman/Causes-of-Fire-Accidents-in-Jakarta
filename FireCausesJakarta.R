@@ -7,6 +7,11 @@ library(dplyr)
 data <- read_csv("FireCausesJakarta.csv")
 head(data)
 
+# unique values
+unique(data[c("year")])
+unique(data[c("region")])
+unique(data[c("causes")])
+
 # Change data type
 data$year <- as.factor(data$year)
 data$region <- as.factor(data$region)

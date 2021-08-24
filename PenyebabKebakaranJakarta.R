@@ -7,6 +7,11 @@ library(dplyr)
 data <- read_csv("PenyebabKebakaranJakarta.csv")
 print(data)
 
+# Melihat nilai unik
+unique(data[c("tahun")])
+unique(data[c("wilayah")])
+unique(data[c("penyebab")])
+
 # Mengubah jenis data
 data$tahun <- as.factor(data$tahun)
 data$wilayah <- as.factor(data$wilayah)
