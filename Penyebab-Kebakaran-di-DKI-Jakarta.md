@@ -1,8 +1,6 @@
 Penyebab Kebakaran di DKI Jakarta - Analisis Data Eksploratif
 ================
-Radian Lukman
-
-# Penyebab Kebakaran di DKI Jakarta - Analisis Data Eksploratif
+Oleh: Radian Lukman
 
 [![Foto Oleh Matt Chesin dari
 Unsplash](images/Fireee.jpg)](https://unsplash.com/@mchesin?utm_source=medium&utm_medium=referral)

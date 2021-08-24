@@ -1,11 +1,9 @@
 ---
 title: "Penyebab Kebakaran di DKI Jakarta - Analisis Data Eksploratif"
-author: "Radian Lukman"
+author: "Oleh: Radian Lukman"
 output:
   rmarkdown::github_document
 ---
-
-# Penyebab Kebakaran di DKI Jakarta - Analisis Data Eksploratif
 
 [![Foto Oleh Matt Chesin dari Unsplash](images/Fireee.jpg)](https://unsplash.com/@mchesin?utm_source=medium&utm_medium=referral)
 
