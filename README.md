@@ -1,7 +1,7 @@
 
 # Causes of Fire Incidents in Jakarta - Explaratory Data Analysis (R)
 
-In this project, we are going to perform an Exparatory Data Analysis of the Causes of Fire Incidents in Jakarta 2015-2020 dataset with R.
+In this project, we are going to perform an Exparatory Data Analysis of the Causes of Fire Incidents in Jakarta 2015-2020 dataset using R.
 
 You can view the full project [here](https://github.com/radianlukman/Causes-of-Fire-Incidents-in-Jakarta/blob/main/Causes-of-Fire-Incidents-in-Jakarta.md).
 
