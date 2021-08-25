@@ -4,7 +4,7 @@ library(ggplot2)
 library(dplyr)
 
 # Import datasets
-data <- read_csv("FireCausesJakarta.csv")
+data <- read_csv("CausesFireJakarta.csv")
 head(data)
 
 # unique values
@@ -19,7 +19,7 @@ data$causes <- as.factor(data$causes)
 head(data)
 
 # Check missing data
-sum(is.na(data))
+sapply(data, function(x) sum(is.na(x)))
 
 # Make yearly aggregated data
 yearly <- aggregate(number~year, data, sum)

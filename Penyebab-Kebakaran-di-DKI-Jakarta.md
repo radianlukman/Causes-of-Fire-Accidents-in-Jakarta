@@ -1,6 +1,7 @@
 Penyebab Kebakaran di DKI Jakarta - Analisis Data Eksploratif
 ================
 Oleh: Radian Lukman
+25 August, 2021
 
 [![Foto Oleh Matt Chesin dari
 Unsplash](images/Fireee.jpg)](https://unsplash.com/@mchesin?utm_source=medium&utm_medium=referral)

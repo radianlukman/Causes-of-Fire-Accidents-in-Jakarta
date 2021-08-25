@@ -1,6 +1,7 @@
 ---
 title: "Penyebab Kebakaran di DKI Jakarta - Analisis Data Eksploratif"
 author: "Oleh: Radian Lukman"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   rmarkdown::github_document
 ---

@@ -19,7 +19,7 @@ data$penyebab <- as.factor(data$penyebab)
 head(data)
 
 # Melihat missing data
-sum(is.na(data))
+sapply(data, function(x) sum(is.na(x)))
 
 # Membuat data dalam pertahun
 pertahun <- aggregate(jumlah~tahun, data, sum)
